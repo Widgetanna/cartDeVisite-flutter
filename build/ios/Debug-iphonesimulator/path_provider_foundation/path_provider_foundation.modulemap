@@ -7,6 +7,6 @@ module path_provider_foundation {
 
 
 module path_provider_foundation.Swift {
-  header "/Users/liliannaguderska/mi_card_flutter/build/ios/Debug-iphonesimulator/path_provider_foundation/Swift Compatibility Header/path_provider_foundation-Swift.h"
+  header "/Users/liliannaguderska/StudioProjects/visitCarte_flutter/build/ios/Debug-iphonesimulator/path_provider_foundation/Swift Compatibility Header/path_provider_foundation-Swift.h"
   requires objc
 }
